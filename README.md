@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rifathowladar7826@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://rifathowladar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="mailto:rifathowladar7826@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="https://rifathowladar.vercel.app"><img src="https://skillicons.dev/icons?i=vercel"/></a>
 </p>
 
 ---
@@ -20,12 +20,12 @@ I'm a developer who works across the full stack — building modern web apps, de
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,redux,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,redux,vite" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,prisma,redis,postgresql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,prisma,redis,postman,postgresql" />
 </p>
 
 Also working with: **REST API design, Authentication & Security, and System Design.**
@@ -34,32 +34,12 @@ Also working with: **REST API design, Authentication & Security, and System Desi
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,openai,langChain,langGraph,llamaindex,n8n" />
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-</p>
 
 Also working with: **RAG (Retrieval-Augmented Generation) and LLM-based systems.**
 
 ### 🛠️ DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions,vercel,aws,terraform,ansible,kubernetes" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
 Also working with: **Bash & Python automation, CI/CD pipelines, AWS EKS, Observability, DevSecOps, and AIOps.**
@@ -69,7 +49,7 @@ Also working with: **Bash & Python automation, CI/CD pipelines, AWS EKS, Observa
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://royalbank-capital.vercel.app"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
