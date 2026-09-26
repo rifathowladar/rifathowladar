@@ -32,8 +32,7 @@ Also working with: **REST API design, Authentication & Security, and System Desi
 
 ### 🤖 AI / Automation
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,openai,langChain,langGraph,llamaindex,n8n" />
-  <img src="https://cdn.simpleicons.org/agentskills" width="40" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python" />
   <img src="https://cdn.simpleicons.org/langchain" width="40" />
   <img src="https://cdn.simpleicons.org/langgraph" width="40" />
   <img src="https://cdn.simpleicons.org/n8n" width="40" />
