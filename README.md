@@ -77,5 +77,8 @@ Also working with: **Bash & Python automation, CI/CD pipelines, AWS EKS, Observa
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rifathowladar&style=flat-square&color=blue" alt="rifathowladar"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=rifathowladar&style=flat-square&color=blue"
+    alt="Profile views"
+  />
 </p>
