@@ -20,27 +20,20 @@ I'm a developer who works across the full stack — building modern web apps, de
 
 ### 🎨 Frontend
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,redux,vite" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,prisma,redis,postgresql" />
 </p>
 
 Also working with: **REST API design, Authentication & Security, and System Design.**
 
 ### 🤖 AI / Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,openai,langChain,langGraph,llamaindex,n8n" />
+</p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -53,6 +46,9 @@ Also working with: **REST API design, Authentication & Security, and System Desi
 Also working with: **RAG (Retrieval-Augmented Generation) and LLM-based systems.**
 
 ### 🛠️ DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions,vercel,aws,terraform,ansible,kubernetes" />
+</p>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -91,9 +87,9 @@ Also working with: **Bash & Python automation, CI/CD pipelines, AWS EKS, Observa
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [Project 1](https://github.com/rifathowladar/Royal-bank) | A modern full-featured banking system | React, Node.js |
-| [Project 2](https://github.com/rifathowladar/Fashion-Marketplace) | A single vendor e-commerce | React, Node.js |
-| [Project 3](https://github.com/rifathowladar/Ecobazar-Dashboard) | E-commerce Dashboard | React, Node.js |
+| [Royal bank](https://github.com/rifathowladar/Royal-bank) | A modern full-featured banking system | React, Node.js |
+| [Fashion Marketplace](https://github.com/rifathowladar/Fashion-Marketplace) | A single vendor e-commerce | React, Node.js |
+| [Ecobazar Dashboard](https://github.com/rifathowladar/Ecobazar-Dashboard) | E-commerce Dashboard | React, Node.js |
 
 ---
 
