@@ -34,6 +34,16 @@ Also working with: **REST API design, Authentication & Security, and System Desi
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,openai,langChain,langGraph,llamaindex,n8n" />
 </p>
+<p>
+  <img src="https://cdn.simpleicons.org/javascript" width="40" />
+  <img src="https://cdn.simpleicons.org/typescript" width="40" />
+  <img src="https://cdn.simpleicons.org/python" width="40" />
+  <img src="https://cdn.simpleicons.org/openai" width="40" />
+  <img src="https://cdn.simpleicons.org/langchain" width="40" />
+  <img src="https://cdn.simpleicons.org/langgraph" width="40" />
+  <img src="https://cdn.simpleicons.org/llamaindex" width="40" />
+  <img src="https://cdn.simpleicons.org/n8n" width="40" />
+</p>
 
 Also working with: **RAG (Retrieval-Augmented Generation) and LLM-based systems.**
 
@@ -49,7 +59,7 @@ Also working with: **Bash & Python automation, CI/CD pipelines, AWS EKS, Observa
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://royalbank-capital.vercel.app"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
