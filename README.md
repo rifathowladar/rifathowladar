@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm RiFAT HOWLADAR 👋</h1>
+<h1 align="center">Hi, I'm RiFAT HOWLADAR 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2F+Automation+Engineer;DevOps+Enthusiast" alt="Typing SVG" />
@@ -33,15 +33,9 @@ Also working with: **REST API design, Authentication & Security, and System Desi
 ### 🤖 AI / Automation
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,openai,langChain,langGraph,llamaindex,n8n" />
-</p>
-<p>
-  <img src="https://cdn.simpleicons.org/javascript" width="40" />
-  <img src="https://cdn.simpleicons.org/typescript" width="40" />
-  <img src="https://cdn.simpleicons.org/python" width="40" />
-  <img src="https://cdn.simpleicons.org/openai" width="40" />
+  <img src="https://cdn.simpleicons.org/agentskills" width="40" />
   <img src="https://cdn.simpleicons.org/langchain" width="40" />
   <img src="https://cdn.simpleicons.org/langgraph" width="40" />
-  <img src="https://cdn.simpleicons.org/llamaindex" width="40" />
   <img src="https://cdn.simpleicons.org/n8n" width="40" />
 </p>
 
