@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=RiFAT%20HOWLADAR&fontSize=60&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0F172A&section=header&reversal=false&text=RiFAT+HOWLADAR&textBg=false&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" />
 
 </div>
 
