@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm RiFAT HOWLADAR 👋</h1>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=RiFAT%20HOWLADAR&fontSize=60&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" />
 
