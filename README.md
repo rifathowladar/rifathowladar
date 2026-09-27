@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://linkedin.com/in/rifat-howladar-9b763ba"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
   <a href="mailto:rifathowladar7826@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
   <a href="https://rifathowladar.vercel.app"><img src="https://skillicons.dev/icons?i=vercel"/></a>
 </p>
