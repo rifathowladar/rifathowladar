@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rifat-howladar-9b763ba"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/rifathowladar"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
   <a href="mailto:rifathowladar7826@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
   <a href="https://rifathowladar.vercel.app"><img src="https://skillicons.dev/icons?i=vercel"/></a>
 </p>
@@ -55,16 +55,16 @@ Also working with: **Bash & Python automation, CI/CD pipelines, AWS EKS, Observa
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rifathowladar&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifathowladar&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifathowladar&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifathowladar&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
