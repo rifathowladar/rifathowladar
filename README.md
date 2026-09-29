@@ -118,14 +118,11 @@ Also working with: **Bash & Python Automation, CI/CD Pipelines, AWS EKS, Observa
 
 ### 📌 Featured Projects
 
-<p align="center">
 | Project | Description | Tech Stack |
 |---|---|---|
 | [Royal bank](https://github.com/rifathowladar/Royal-bank) | A modern full-featured banking system | React, Node.js |
 | [Fashion Marketplace](https://github.com/rifathowladar/Fashion-Marketplace) | A single vendor e-commerce | React, Node.js |
 | [Ecobazar Dashboard](https://github.com/rifathowladar/Ecobazar-Dashboard) | E-commerce Dashboard | React, Node.js |
-</p>
-
 
 ---
 
