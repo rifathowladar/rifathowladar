@@ -72,15 +72,13 @@ Also working with: **Bash & Python automation, CI/CD pipelines, AWS EKS, Observa
   <img src="./profile/top-langs.svg" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rifathowladar&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rifathowladar&theme=tokyonight" />
-</p>
-<p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rifathowladar&theme=tokyonight"
+    src="./profile/stats.svg"
+    height="165"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rifathowladar&theme=tokyonight"
+    src="./profile/top-langs.svg"
+    height="165"
   />
 </p>
 
