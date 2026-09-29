@@ -118,19 +118,17 @@ Also working with: **Bash & Python Automation, CI/CD Pipelines, AWS EKS, Observa
 
 ### 📌 Featured Projects
 
-| Project                                                                     | Description                           | Tech Stack                      |
-| --------------------------------------------------------------------------- | ------------------------------------- | ------------------------------- |
-| [Royal Bank](https://github.com/rifathowladar/Royal-bank)                   | A modern full-featured banking system | React, TypeScript, Tailwind CSS |
-| [Fashion Marketplace](https://github.com/rifathowladar/Fashion-Marketplace) | A single-vendor e-commerce platform   | React, Node.js                  |
-| [Ecobazar Dashboard](https://github.com/rifathowladar/Ecobazar-Dashboard)   | Modern e-commerce dashboard           | React, Node.js                  |
+| Project | Description | Tech Stack |
+|---|---|---|
+| [Royal bank](https://github.com/rifathowladar/Royal-bank) | A modern full-featured banking system | React, Node.js |
+| [Fashion Marketplace](https://github.com/rifathowladar/Fashion-Marketplace) | A single vendor e-commerce | React, Node.js |
+| [Ecobazar Dashboard](https://github.com/rifathowladar/Ecobazar-Dashboard) | E-commerce Dashboard | React, Node.js |
 
 ---
 
 <p align="center">
-
-<img
- src="https://komarev.com/ghpvc/?username=rifathowladar&style=flat-square&color=blue"
- alt="Profile views"
-/>
-
+  <img
+    src="https://komarev.com/ghpvc/?username=rifathowladar&style=flat-square&color=blue"
+    alt="Profile views"
+  />
 </p>
