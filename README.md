@@ -61,16 +61,35 @@ Also working with: **Bash & Python automation, CI/CD pipelines, AWS EKS, Observa
 
 <!-- GitHub Stats -->
 <p align="center">
+  <img src="./profile/stats.svg" height="165" />
+</p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rifathowladar&theme=tokyonight" />
 </p>
 
 <!-- Languages -->
 <p align="center">
+  <img src="./profile/top-langs.svg" height="165" />
+</p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rifathowladar&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rifathowladar&theme=tokyonight" />
 </p>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rifathowladar&theme=tokyonight"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rifathowladar&theme=tokyonight"
+  />
+</p>
 
 <!-- Streak -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rifathowladar&theme=tokyonight"
+  />
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rifathowladar&theme=tokyonight&hide_border=true" />
 </p>
