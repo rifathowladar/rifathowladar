@@ -16,12 +16,16 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="mailto:rifathowladar7826@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="https://discord.com/users/rifathowladar_">
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 
   <a href="https://rifathowladar.vercel.app">
     <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
+
+  <a href="mailto:rifathowladar7826@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
 </p>
@@ -38,7 +42,7 @@ I'm a developer who works across the full stack — building modern web applicat
 
 <p>
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,redux,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,ai,react,vue,tailwind,redux,vite" />
 
 </p>
 
@@ -48,7 +52,7 @@ I'm a developer who works across the full stack — building modern web applicat
 
 <p>
 
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,prisma,redis,postman,postgresql" />
+  <img src="https://skillicons.dev/icons?i=ai,nodejs,express,fastapi,mongodb,prisma,redis,postman,postgresql" />
 
 </p>
 
@@ -78,7 +82,7 @@ Also working with: **RAG (Retrieval-Augmented Generation) and LLM-based systems.
 
 <p>
 
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions,vercel,aws,terraform,ansible,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=ai,git,github,docker,linux,githubactions,vercel,aws,terraform,ansible,kubernetes" />
 
 </p>
 
