@@ -23,6 +23,9 @@
   <a href="https://rifathowladar.vercel.app">
     <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
+  <a href="https://rifathowladar.vercel.app">
+    <img src="https://skillicons.dev/icons?i=netlify" />
+  </a>
 
   <a href="mailto:rifathowladar7826@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
@@ -82,7 +85,7 @@ Also working with: **RAG (Retrieval-Augmented Generation) and LLM-based systems.
 
 <p>
 
-  <img src="https://skillicons.dev/icons?i=ai,git,github,docker,linux,githubactions,vercel,aws,terraform,ansible,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=ai,git,github,docker,linux,githubactions,vercel,netlify,aws,terraform,ansible,kubernetes" />
 
 </p>
 
