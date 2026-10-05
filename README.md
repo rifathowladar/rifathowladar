@@ -23,7 +23,7 @@
   <a href="https://rifathowladar.vercel.app">
     <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
-  <a href="https://rifathowladar.vercel.app">
+  <a href="https://royalbank-bd.netlify.app">
     <img src="https://skillicons.dev/icons?i=netlify" />
   </a>
 
@@ -63,7 +63,7 @@ Also working with: **REST API Design, Authentication & Security, and System Desi
 
 ---
 
-### 🤖 AI / Automation
+### 🤖 AI / Automation (Upcoming)
 
 <p>
 
@@ -81,7 +81,7 @@ Also working with: **RAG (Retrieval-Augmented Generation) and LLM-based systems.
 
 ---
 
-### 🛠️ DevOps
+### 🛠️ DevOps (Upcoming)
 
 <p>
 
